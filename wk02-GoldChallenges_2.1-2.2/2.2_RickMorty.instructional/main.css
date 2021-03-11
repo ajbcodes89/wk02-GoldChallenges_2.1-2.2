@@ -1,0 +1,17 @@
+/* STYLE HERE */
+#imageOne{
+    display: block;
+    align-items: center;
+    border: 7px solid teal;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 85px;
+    margin-bottom: 10px;
+}
+#imageTwo{
+    display: block;
+    border: 7px solid teal;
+    border-radius: 20px;
+    margin: auto;
+    margin-bottom: 85px;
+}
